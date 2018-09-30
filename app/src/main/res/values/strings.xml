@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Les6</string>
+    <string-array name="mohamed">
+        <item>"mohamed"</item>
+        <item>"01122396708"</item>
+        <item>"ideal_nd@yahoo.com"</item>
+        <item>"degla palms"</item>
+    </string-array>
+    <string-array name="Omar">
+        <item>"omar"</item>
+        <item>"01111454272"</item>
+        <item>"omarsa,eh@gmail.com@yahoo.com"</item>
+        <item>"canda"</item>
+    </string-array>
+    <string-array name="helmy">
+        <item>"Helmy"</item>
+        <item>"0115653735"</item>
+        <item>"helmy@yahoo.com"</item>
+        <item>"maldiv"</item>
+    </string-array>
+</resources>
